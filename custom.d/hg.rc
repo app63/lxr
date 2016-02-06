@@ -1,0 +1,5 @@
+[extensions]
+lxr-ext = /var/www/html/lxr/custom.d/hg-lxr-ext.py
+
+[trusted]
+users = aditya
